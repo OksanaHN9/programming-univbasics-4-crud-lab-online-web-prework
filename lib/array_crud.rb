@@ -52,7 +52,9 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  
+   arrays = ["wow", "I", "am", "really", "learning", "arrays!"]
+   
+   arrays [5]
 end
 
 def update_element_from_index(array, index_number, element)
