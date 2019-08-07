@@ -22,6 +22,8 @@ end
 
 def remove_element_from_end_of_array(array)
   tea = ["green", "black", "jasmine","earl grey"]
+  earl_grey_tea = tea.pop 
+  p earl_grey_tea
 end
 
 def remove_element_from_start_of_array(array)
